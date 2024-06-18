@@ -75,3 +75,5 @@ BibTex:
 ### Licensing
 The dataset is published under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). Feel free to use it for your research with necessary attributions. 
 
+### Contact
+For any questions, contact matija.marolt [at] fri.uni-lj.si
