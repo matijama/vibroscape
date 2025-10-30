@@ -53,7 +53,7 @@ Zipped audio recordings can be downloaded with the following links. Unzip them i
 * [24 hour](https://drive.google.com/file/d/1wMB_T9pOcCtBIJH96z0GPy4twYtuQuRT/view?usp=sharing) 27.1 GB
 
 ### Cite us
-The paper describing the dataset and our first automatic classification methods is published in Ecological Informatics. Please cite  [(Marolt et al. 2025)](https://doi.org/10.1016/j.isci.2021.103070) if you use this code or dataset.
+The paper describing the dataset and our first automatic classification methods is published in Ecological Informatics. Please cite  [(Marolt et al. 2025)](https://doi.org/10.1016/j.ecoinf.2025.103003) if you use this code or dataset.
 
 BibTex:
 ```
