@@ -53,22 +53,17 @@ Zipped audio recordings can be downloaded with the following links. Unzip them i
 * [24 hour](https://drive.google.com/file/d/1wMB_T9pOcCtBIJH96z0GPy4twYtuQuRT/view?usp=sharing) 27.1 GB
 
 ### Cite us
-A paper describing the dataset and our first automatic classification methods is under review. Please cite our previous paper [(Šturm et al. 2021)](https://doi.org/10.1016/j.isci.2021.103070) if you use this dataset.
+The paper describing the dataset and our first automatic classification methods is published in Ecological Informatics. Please cite  [(Marolt et al. 2025)](https://doi.org/10.1016/j.isci.2021.103070) if you use this code or dataset.
 
 BibTex:
 ```
-@article{Sturm2021,
-   author = {Rok Šturm and Behare Rexhepi and Juan José López Díez and Andrej Blejec and Jernej Polajnar and Jérôme Sueur and Meta Virant-Doberlet},
-   doi = {10.1016/j.isci.2021.103070},
-   issn = {25890042},
-   issue = {9},
-   journal = {iScience},
-   keywords = {Biological sciences,Interaction of plants with organisms,Plant biology,Plants},
-   month = {9},
+@article{Marolt2025,
+   author = {Matija Marolt and Matevž Pesek and Rok Šturm and Juan José López Díez and Behare Rexhepi and Meta Virant-Doberlet},
+   journal = {Ecological Informatics},
+   keywords = {Vibroscape, Ecotremology, Deep learning, Automatic classification, Biotremology, Insects},
    publisher = {Elsevier Inc.},
-   title = {Hay meadow vibroscape and interactions within insect vibrational community},
-   volume = {24},
-   year = {2021},
+   title = {Computational methods for detecting insect vibrational signals in field vibroscape recordings},
+   year = {2025},
 }
 ``` 
 
